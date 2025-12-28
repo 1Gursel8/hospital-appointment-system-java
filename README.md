@@ -76,13 +76,13 @@ Upon launching, the system prompts you to choose an interface:
 ## 📸 Screenshots
 
 ### 1. Main Selection Menu
-![Main Menu](screenshots/main_selection.png)
+![Main Menu](screenshots/terminalMenu1.png)
 
 ### 2. Graphical User Interface (GUI)
-![GUI Mode](screenshots/gui_view.png)
+![GUI Mode](screenshots/guiMenu.png)
 
 ### 3. Terminal Interface & Operations
-![Terminal Mode](screenshots/terminal_view.png)
+![Terminal Mode](screenshots/terminalMenu2.png)
 
 ## 📂 Project Structure
 
